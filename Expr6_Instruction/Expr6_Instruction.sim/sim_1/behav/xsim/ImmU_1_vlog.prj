@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Expr6_Instruction.srcs/sources_1/new/ImmU.v" \
+"../../../../Expr6_Instruction.srcs/sim_1/new/ImmU_1.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

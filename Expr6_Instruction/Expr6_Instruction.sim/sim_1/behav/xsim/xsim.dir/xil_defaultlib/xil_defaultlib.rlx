@@ -1,0 +1,14 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sim_1/new/IM_1.v,1622460753,verilog,,,,IM_1,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sim_1/new/IM_IF_1.v,1622466229,verilog,,,,IM_IF_1,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sim_1/new/ImmU_1.v,1622469972,verilog,,,,ImmU_1,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/ip/ROM_SP/sim/ROM_SP.v,1622286988,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/new/IM.v,,ROM_SP,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/new/IM.v,1622288063,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/new/IM_IF.v,,IM,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/new/IM_IF.v,1623152946,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/new/IR.v,,IM_IF,,,,,,,,
+,,,,C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/new/PC.v,,IR,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/new/ImmU.v,1622467782,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sim_1/new/ImmU_1.v,,ImmU,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sources_1/new/PC.v,1622295594,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr6_Instruction/Expr6_Instruction.srcs/sim_1/new/IM_IF_1.v,,PC,,,,,,,,
