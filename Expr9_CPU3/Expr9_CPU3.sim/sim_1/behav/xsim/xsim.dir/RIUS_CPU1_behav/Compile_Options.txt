@@ -1,0 +1,1 @@
+-wto "3cbbcb4fecbb4794bf0c6743a2e793fa" --incr --debug "typical" --relax --mt "2" -L "blk_mem_gen_v8_4_4" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "RIUS_CPU1_behav" "xil_defaultlib.RIUS_CPU1" "xil_defaultlib.glbl" -log "elaborate.log" 

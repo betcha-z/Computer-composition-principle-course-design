@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Jul 11 18:23:38 2021
+# Process ID: 21208
+# Current directory: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20780 C:\Users\zhangtaoyuan\FPGA\Expr9_CPU3\Expr9_CPU3.xpr
+# Log file: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/vivado.log
+# Journal file: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.xpr
+update_compile_order -fileset sources_1

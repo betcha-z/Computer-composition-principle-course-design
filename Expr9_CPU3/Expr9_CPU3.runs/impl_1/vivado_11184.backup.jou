@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Jun 26 08:58:19 2021
+# Process ID: 11184
+# Current directory: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.runs/impl_1
+# Command line: vivado.exe -log CPU3_Top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source CPU3_Top.tcl -notrace
+# Log file: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.runs/impl_1/CPU3_Top.vdi
+# Journal file: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source CPU3_Top.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Jun 19 12:08:27 2021
+# Process ID: 23636
+# Current directory: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.runs/RAM_SP2_synth_1
+# Command line: vivado.exe -log RAM_SP2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source RAM_SP2.tcl
+# Log file: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.runs/RAM_SP2_synth_1/RAM_SP2.vds
+# Journal file: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.runs/RAM_SP2_synth_1\vivado.jou
+#-----------------------------------------------------------
+source RAM_SP2.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Jun 25 12:38:56 2021
+# Process ID: 11636
+# Current directory: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.sim/sim_1/behav/xsim/xsim.dir/RIUSJB_CPU1_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/zhangtaoyuan/FPGA/Expr9_CPU3/Expr9_CPU3.sim/sim_1/behav/xsim/xsim.dir/RIUSJB_CPU1_behav/webtalk/xsim_webtalk.tcl -notrace
