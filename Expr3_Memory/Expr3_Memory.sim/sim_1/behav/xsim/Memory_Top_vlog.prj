@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Expr3_Memory.srcs/sources_1/ip/RAM_B/sim/RAM_B.v" \
+"../../../../../Expr1_ALU/Expr1_ALU.srcs/sources_1/new/DISP.v" \
+"../../../../../Expr1_ALU/Expr1_ALU.srcs/sources_1/new/Display.v" \
+"../../../../../Expr1_ALU/Expr1_ALU.srcs/sources_1/new/Fdiv.v" \
+"../../../../Expr3_Memory.srcs/sources_1/new/Memory.v" \
+"../../../../Expr3_Memory.srcs/sources_1/new/Memory_Top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

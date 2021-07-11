@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed May 12 13:01:25 2021
+# Process ID: 8124
+# Current directory: C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.runs/synth_1
+# Command line: vivado.exe -log Memory_Top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Memory_Top.tcl
+# Log file: C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.runs/synth_1/Memory_Top.vds
+# Journal file: C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Memory_Top.tcl -notrace

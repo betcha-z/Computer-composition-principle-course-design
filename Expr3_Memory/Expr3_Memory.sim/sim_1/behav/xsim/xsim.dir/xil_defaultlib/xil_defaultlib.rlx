@@ -1,0 +1,12 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/zhangtaoyuan/FPGA/Expr1_ALU/Expr1_ALU.srcs/sources_1/new/DISP.v,1619453644,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr1_ALU/Expr1_ALU.srcs/sources_1/new/Display.v,,DISP,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr1_ALU/Expr1_ALU.srcs/sources_1/new/Display.v,1619582880,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr1_ALU/Expr1_ALU.srcs/sources_1/new/Fdiv.v,,Display,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr1_ALU/Expr1_ALU.srcs/sources_1/new/Fdiv.v,1619453427,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.srcs/sources_1/new/Memory.v,,Fdiv,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.srcs/sim_1/new/Memory_1.v,1620746619,verilog,,,,Memory_1,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.srcs/sources_1/ip/RAM_B/sim/RAM_B.v,1620729282,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.srcs/sources_1/new/Memory.v,,RAM_B,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.srcs/sources_1/new/Memory.v,1621143504,verilog,,C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.srcs/sim_1/new/Memory_1.v,,Memory,,,,,,,,
+C:/Users/zhangtaoyuan/FPGA/Expr3_Memory/Expr3_Memory.srcs/sources_1/new/Memory_Top.v,1620745514,verilog,,,,Memory_Top,,,,,,,,
